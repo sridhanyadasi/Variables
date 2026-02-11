@@ -6,7 +6,6 @@ This repository contains C programs related to variables.
 - Declaration of variables
 - Initialization
 - Assignment
-- Data types
 
 ## Author
 Sri Dhanya
